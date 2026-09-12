@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
+  <h1>★ ningshenball ★</h1>
+  <img src="under-construction.gif" height="36" alt="under construction"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=ningshenball&label=profile+hits&color=ff69b4&style=flat-square" alt="hits"/>
+</div>
 
-<!--
-**ningshenball/ningshenball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<table>
+  <tr>
+    <td width="220" valign="top">
+      <img src="https://github.com/ningshenball.png" width="200" alt="pic"/>
+      <br/><br/>
+      <b>mood:</b> compiling<br/>
+      <b>now playing:</b> pick a song later<br/>
+      <b>location:</b> chennai
+    </td>
+    <td valign="top">
+      <h3>about me</h3>
+      cse student. web + cybersec. meghalaya → chennai.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      <h3>interests</h3>
+      coding · guitar · dream-pop · cybersec
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">★ blinkies ★</h3>
+<p align="center">
+  <img src="blinkie1.gif" height="20"/>
+  <img src="blinkie2.gif" height="20"/>
+</p>
+
+<p align="center">
+  <b><a href="https://ningshenball.github.io/space/">★ ENTER MY SPACE ★</a></b>
+</p>
