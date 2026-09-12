@@ -18,7 +18,7 @@
     </tr>
   </table>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header&text=ningshenball&fontSize=36&fontColor=ffffff&animation=twinkling" alt="ningshenball"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header&text=/ᐠ˵- ⩊ -˵マ&fontSize=36&fontColor=ffffff&animation=twinkling" alt="ningshenball"/>
 
   <h1>★ ⛧°. ⋆༺♱༻⋆. °⛧ ★</h1>
 
