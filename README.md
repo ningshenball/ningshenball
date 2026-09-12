@@ -26,7 +26,7 @@
   </tr>
 </table>
 
-<h3 align="center">★ blinkies ★</h3>
+<h3 align="center">★ ......... ★</h3>
 <p align="center">
   <img src="blinkie1.gif" height="20"/>
   <img src="blinkie2.gif" height="20"/>
