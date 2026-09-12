@@ -18,9 +18,9 @@
     </tr>
   </table>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header&text=/ᐠ˵- ⩊ -˵マ&fontSize=36&fontColor=ffffff&animation=twinkling" alt="/ᐠ˵- ⩊ -˵マ"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header&text=ningshenball&fontSize=36&fontColor=ffffff&animation=twinkling" alt="ningshenball"/>
 
-  <h1>★ ⛧°. ⋆༺♱༻⋆. °⛧ ★</h1>
+  <h1>★ /ᐠ˵- ⩊ -˵マ ★</h1>
 
   <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=420&lines=cse+student+%2B+cybersec+noob;now+playing+summer+film;welcome+to+my+space" alt="typing"/>
 
@@ -38,8 +38,8 @@
       <img src="https://github.com/ningshenball.png" width="200" alt="pic"/>
       <br/><br/>
       <b>mood:</b> ദ്ദി◝ ⩊ ◜.ᐟ<br/>
-      <b>
-      <b>
+      <b>status:</b> online ★<br/>
+      <b>last login:</b> just now<br/>
       <b>now playing:</b> <a href="https://youtu.be/Ni2NS0hZRkU">kurayamisaka — summer film</a>
     </td>
     <td valign="top">
