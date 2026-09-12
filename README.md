@@ -45,11 +45,15 @@
       <b>
       <b>now playing:</b> <a href="https://youtu.be/Ni2NS0hZRkU">kurayamisaka — summer film</a>
     </td>
-    <td valign="top">
-      <b>about me</b><br/>
+        <td valign="top">
+      <b>about me</b>
+      <img src="blinkie6.webp" height="36" alt=""/>
+      <br/>
       cse student + cybersec noob
       <br/><br/>
-      <b>interests</b><br/>
+      <b>interests</b>
+      <img src="blinkie5.webp" height="36" alt=""/>
+      <br/>
       piano · football · y2k · cybersec · web arch · more yet to come
     </td>
   </tr>
