@@ -14,14 +14,14 @@
       <br/><br/>
       <b>mood:</b> compiling<br/>
       <b>now playing:</b> pick a song later<br/>
-      <b>location:</b> chennai
+      <b>location:</b> fontaine
     </td>
     <td valign="top">
       <b>about me</b><br/>
       cse student + cybersec noob
       <br/><br/>
       <b>interests</b><br/>
-      piano · football · y2k · cybersec · web · guitar
+      piano · football · y2k · cybersec · web · more yet to come
     </td>
   </tr>
 </table>
