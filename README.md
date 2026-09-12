@@ -1,32 +1,10 @@
 <div align="center">
-  <h3 align="center">★ mis amigos :Þ ★</h3>
-  <p align="center">
-    <img src="blinkie3.webp" height="64" alt="plush"/>
-  </p>
-  <table align="center">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/vivinarya">
-          <img src="https://github.com/vivinarya.png" width="64" alt="vivinarya"/><br/>
-          1. vivinarya
-        </a>
-      </td>
-      <td align="center">2. ???<br/><i>empty</i></td>
-      <td align="center">3. ???<br/><i>empty</i></td>
-      <td align="center">4. ???<br/><i>empty</i></td>
-      <td align="center">5. ???<br/><i>empty</i></td>
-    </tr>
-  </table>
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header&text=Hi&fontSize=36&fontColor=ffffff&animation=twinkling" alt="Hi"/>
   <p align="center">
-  <img src="blinkie4.webp" height="72" alt="plush"/>
-</p>
-
+    <img src="blinkie4.webp" height="72" alt="plush"/>
+  </p>
   <h1>★ /ᐠ˵- ⩊ -˵マ ★</h1>
-
   <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=420&lines=now+playing+summer+film;welcome+to+my+space" alt="typing"/>
-
   <br/>
   <img src="under-construction.gif" height="36" alt="under construction"/>
   <br/>
@@ -41,11 +19,11 @@
       <img src="https://github.com/ningshenball.png" width="200" alt="pic"/>
       <br/><br/>
       <b>mood:</b> ദ്ദി◝ ⩊ ◜.ᐟ<br/>
-      <b>
-      <b>
+      <b>status:</b> online ★<br/>
+      <b>last login:</b> just now<br/>
       <b>now playing:</b> <a href="https://youtu.be/Ni2NS0hZRkU">kurayamisaka — summer film</a>
     </td>
-        <td valign="top">
+    <td valign="top">
       <b>about me</b>
       <img src="blinkie6.webp" height="42" alt=""/>
       <br/>
@@ -83,3 +61,24 @@
   <br/>
   <img src="blinkie8.webp" height="80" alt=""/>
 </p>
+
+<div align="center">
+  <h3 align="center">★ mis amigos :Þ ★</h3>
+  <p align="center">
+    <img src="blinkie3.webp" height="64" alt="plush"/>
+  </p>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/vivinarya">
+          <img src="https://github.com/vivinarya.png" width="64" alt="vivinarya"/><br/>
+          1. vivinarya
+        </a>
+      </td>
+      <td align="center">2. ???<br/><i>empty</i></td>
+      <td align="center">3. ???<br/><i>empty</i></td>
+      <td align="center">4. ???<br/><i>empty</i></td>
+      <td align="center">5. ???<br/><i>empty</i></td>
+    </tr>
+  </table>
+</div>
