@@ -80,4 +80,6 @@
 
 <p align="center">
   <b><a href="https://ningshenball.github.io/space/">★ ENTER MY SPACE ★</a></b>
+  <br/>
+  <img src="blinkie8.webp" height="80" alt=""/>
 </p>
