@@ -19,6 +19,9 @@
   </table>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header&text=Hi&fontSize=36&fontColor=ffffff&animation=twinkling" alt="Hi"/>
+  <p align="center">
+  <img src="blinkie4.webp" height="72" alt="plush"/>
+</p>
 
   <h1>★ /ᐠ˵- ⩊ -˵マ ★</h1>
 
