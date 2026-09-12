@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center">★ my top 5 ★</h3>
+  <h3 align="center">★ mis amigos :Þ ★</h3>
 <table align="center">
   <tr>
     <td align="center">
