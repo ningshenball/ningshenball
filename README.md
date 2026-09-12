@@ -21,7 +21,7 @@
       cse student + cybersec noob
       <br/><br/>
       <b>interests</b><br/>
-      piano · football · y2k · cybersec · web · more yet to come
+      piano · football · y2k · cybersec · web arch · more yet to come
     </td>
   </tr>
 </table>
