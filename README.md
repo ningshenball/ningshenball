@@ -17,11 +17,11 @@
       <b>location:</b> chennai
     </td>
     <td valign="top">
-      <h3>about me</h3>
-      cse student. web + cybersec. meghalaya → chennai.
-
-      <h3>interests</h3>
-      coding · guitar · dream-pop · cybersec
+      <b>about me</b><br/>
+      cse student + cybersec noob
+      <br/><br/>
+      <b>interests</b><br/>
+      piano · football · y2k · cybersec · web · guitar
     </td>
   </tr>
 </table>
