@@ -1,4 +1,12 @@
 <div align="center">
+  <h3 align="center">★ stuffs i kinda know ★</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,linux,bash,git,aws" /><br/><br/>
+  <img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali"/>
+  <img src="https://img.shields.io/badge/Nuclei-000000?style=for-the-badge&logo=target&logoColor=white" alt="Nuclei"/>
+</p>
   <h1>★ ⛧°. ⋆༺♱༻⋆. °⛧ ★</h1>
   <img src="under-construction.gif" height="36" alt="under construction"/>
   <br/>
