@@ -61,6 +61,9 @@
 
 <h3 align="center">★ stuffs i kinda know ★</h3>
 <p align="center">
+  <img src="blinkie7.gif" height="80" alt="let's larp"/>
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,linux" />
 </p>
 <p align="center">
