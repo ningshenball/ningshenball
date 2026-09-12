@@ -19,8 +19,8 @@
       <img src="https://github.com/ningshenball.png" width="200" alt="pic"/>
       <br/><br/>
       <b>mood:</b> ദ്ദി◝ ⩊ ◜.ᐟ<br/>
-      <b>status:</b> online ★<br/>
-      <b>last login:</b> just now<br/>
+      <b>
+      <b>
       <b>now playing:</b> <a href="https://youtu.be/Ni2NS0hZRkU">kurayamisaka — summer film</a>
     </td>
     <td valign="top">
