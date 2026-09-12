@@ -22,7 +22,7 @@
 
   <h1>★ /ᐠ˵- ⩊ -˵マ ★</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=420&lines=cse%2Bnoob;now+playing+summer+film;welcome+to+my+space" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=420&lines=cse noob;now+playing+summer+film;welcome+to+my+space" alt="typing"/>
 
   <br/>
   <img src="under-construction.gif" height="36" alt="under construction"/>
