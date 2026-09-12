@@ -12,9 +12,9 @@
     <td width="220" valign="top">
       <img src="https://github.com/ningshenball.png" width="200" alt="pic"/>
       <br/><br/>
-      <b>mood:</b> compiling<br/>
+      <b>mood:</b> ദ്ദി◝ ⩊ ◜.ᐟ<br/>
       <b>now playing:</b> pick a song later<br/>
-      <b>location:</b> fontaine
+      </td>
     </td>
     <td valign="top">
       <b>about me</b><br/>
