@@ -47,12 +47,12 @@
     </td>
         <td valign="top">
       <b>about me</b>
-      <img src="blinkie6.webp" height="36" alt=""/>
+      <img src="blinkie6.webp" height="42" alt=""/>
       <br/>
       cse student + cybersec noob
       <br/><br/>
       <b>interests</b>
-      <img src="blinkie5.webp" height="36" alt=""/>
+      <img src="blinkie5.webp" height="42" alt=""/>
       <br/>
       piano · football · y2k · cybersec · web arch · more yet to come
     </td>
