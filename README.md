@@ -1,5 +1,8 @@
 <div align="center">
   <h3 align="center">★ mis amigos :Þ ★</h3>
+<p align="center">
+  <img src="blinkie3.webp" height="64" alt="plush"/>
+</p>
 <table align="center">
   <tr>
     <td align="center">
